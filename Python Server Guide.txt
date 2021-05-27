@@ -1,0 +1,4 @@
+To start the python server go to the directory of JPM
+python datafeed/server3.py
+Server will start
+Then React Scripts will work after the modification
