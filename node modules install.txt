@@ -1,0 +1,3 @@
+Just open the Command prompt
+npm install after going to the JPM-Task2-PY3 directory
+This will install all the dependencies
